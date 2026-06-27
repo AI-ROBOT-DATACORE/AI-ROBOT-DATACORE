@@ -2,7 +2,7 @@
 <img width="ㅣ506" height="279" alt="image" src="https://github.com/user-attachments/assets/a5a31ac4-3f93-4be9-840d-aa6deb3df0c1" />
 
 ## 📖 강의 경력
-      - 대한상공회의소 디지털 선도기업 아카데미 두산로보틱스 ROKEY Bootcamp 협동2
+      - 대한상공회의소 디지털 선도기업 아카데미 두산로보틱스 ROKEY Bootcamp
       
       - 이젠DX아카데미 강남 반도체 공정
 
