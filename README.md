@@ -13,7 +13,10 @@
       
       - (주)Bistel | New Biz Developement 이사(2018 ~ 2021)
       
-      - (주)AVL | Korea Head of Project Management (2021 ~ 2023)
+      - (주)AVL | Korea Head of Project Management (2015~ 2017)
+
+      - (주)SPE | Solution 개발, PMS Korea , Jacobs Engineering(former Sverdrup)(1996~ 2015)
+      
       
 ## 🔬 두산로보틱스 협동2 프로젝트
 | Category | Technologies |
