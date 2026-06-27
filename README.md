@@ -2,7 +2,18 @@
 <img width="ㅣ506" height="279" alt="image" src="https://github.com/user-attachments/assets/a5a31ac4-3f93-4be9-840d-aa6deb3df0c1" />
 
 <!--
-**AI-ROBOT-DATACORE/AI-ROBOT-DATACORE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI-ROBOT-DATACORE/AI-ROBOT-DATACORE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+
+| Category | Technologies |
+|:---------|:-------------|
+| Operating System | Ubuntu 22.04, Ubuntu 24.04 |
+| Robotics | ROS2 Humble, ROS2 Jazzy, MoveIt2 |
+| Programming | Python, C++ |
+| Vision | OpenCV, YOLO, Roboflow |
+| AI | PyTorch, TensorFlow |
+| Simulation | MuJoCo, Isaac Sim |
+| Industrial | PLC, MES, Smart Factory |
+| Version Control | Git, GitHub |
 
 Here are some ideas to get you started:
 
