@@ -1,5 +1,5 @@
 ## AI & ROBOT K-DT Instructor
-<img width="1021" height="568" alt="image" src="https://github.com/user-attachments/assets/97fd6d20-a3df-4b0d-87c8-ac8ce076cfb7" />
+<img width="ㅣ506" height="279" alt="image" src="https://github.com/user-attachments/assets/a5a31ac4-3f93-4be9-840d-aa6deb3df0c1" />
 
 <!--
 **AI-ROBOT-DATACORE/AI-ROBOT-DATACORE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
