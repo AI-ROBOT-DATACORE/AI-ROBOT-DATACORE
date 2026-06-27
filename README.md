@@ -7,19 +7,15 @@
       - 이젠DX아카데미 강남 반도체 공정
 
 ## 🔬 경력
-| 근무기간 | 회사 |
-|:---------|:-------------|
-| Operating System | Ubuntu 22.04, Ubuntu 24.04 |
-| Robotics | ROS2 Humble, ROS2 Jazzy, MoveIt2 |
-| Programming | Python |
-| Vision | OpenCV, YOLO, Roboflow |
-| AI | PyTorch, TensorFlow |
-| Simulation | MuJoCo, Isaac Sim |
-| Database | MongoDB, mySQL, Firebase |
-| Version Control | Git, GitHub |
-| CI/CD | Docker |
-
-🔬 두산로보틱스 협동2 프로젝트
+      - 데이터코어 대표(2023 ~ 현재)
+      
+      - (주)테너지 빅데이터 본부장(2021 ~ 2023)
+      
+      - (주)테너지 빅데이터 본부장(2021 ~ 2023)
+      
+      - (주)테너지 빅데이터 본부장(2021 ~ 2023)
+      
+## 🔬 두산로보틱스 협동2 프로젝트
 | Category | Technologies |
 |:---------|:-------------|
 | Operating System | Ubuntu 22.04, Ubuntu 24.04 |
