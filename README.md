@@ -1,13 +1,11 @@
 ## AI & ROBOT K-DT(Digital Training) Instructor
 <img width="ㅣ506" height="279" alt="image" src="https://github.com/user-attachments/assets/a5a31ac4-3f93-4be9-840d-aa6deb3df0c1" />
 
-📖 강의 경력
-      o 대한상공회의소 디지털 선도기업 아카데미 두산로보틱스 ROKEY Bootcamp 협동2
-      o 이젠DX아카데미 강남 반도체 공정
-      혼자 공부하는 바이브 코딩 with 클로드 코드 (코드, 책, Youtube), 한빛미디어, 2025
-      모두의 딥러닝 개정4판 (코드, 책, Youtube), 길벗, 2025      
+## 📖 강의 경력
+      - 대한상공회의소 디지털 선도기업 아카데미 두산로보틱스 ROKEY Bootcamp 협동2
+      - 이젠DX아카데미 강남 반도체 공정
 
-🔬 경력
+## 🔬 경력
 | 근무기간 | 회사 |
 |:---------|:-------------|
 | Operating System | Ubuntu 22.04, Ubuntu 24.04 |
