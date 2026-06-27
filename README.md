@@ -1,4 +1,5 @@
 ## AI & ROBOT K-DT Instructor
+![Uploading 대지 2@4x-100.jpg…]()
 
 <!--
 **AI-ROBOT-DATACORE/AI-ROBOT-DATACORE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
