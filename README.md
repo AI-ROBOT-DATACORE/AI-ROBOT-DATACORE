@@ -1,7 +1,23 @@
 ## AI & ROBOT K-DT(Digital Training) Instructor
 <img width="ㅣ506" height="279" alt="image" src="https://github.com/user-attachments/assets/a5a31ac4-3f93-4be9-840d-aa6deb3df0c1" />
 
+📖 강의 경력
+o 대한상공회의소 디지털 선도기업 아카데미 두산로보틱스 ROKEY Bootcamp 협동2
 
+🔬 경력
+| 근무기간 | 회사 |
+|:---------|:-------------|
+| Operating System | Ubuntu 22.04, Ubuntu 24.04 |
+| Robotics | ROS2 Humble, ROS2 Jazzy, MoveIt2 |
+| Programming | Python |
+| Vision | OpenCV, YOLO, Roboflow |
+| AI | PyTorch, TensorFlow |
+| Simulation | MuJoCo, Isaac Sim |
+| Database | MongoDB, mySQL, Firebase |
+| Version Control | Git, GitHub |
+| CI/CD | Docker |
+
+🔬 두산로보틱스 협동2 프로젝트
 | Category | Technologies |
 |:---------|:-------------|
 | Operating System | Ubuntu 22.04, Ubuntu 24.04 |
