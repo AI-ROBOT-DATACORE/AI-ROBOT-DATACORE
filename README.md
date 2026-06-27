@@ -1,8 +1,7 @@
 ## AI & ROBOT K-DT(Digital Training) Instructor
 <img width="ㅣ506" height="279" alt="image" src="https://github.com/user-attachments/assets/a5a31ac4-3f93-4be9-840d-aa6deb3df0c1" />
 
-<!--
-**AI-ROBOT-DATACORE/AI-ROBOT-DATACORE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -14,6 +13,11 @@
 | Simulation | MuJoCo, Isaac Sim |
 | Industrial | PLC, MES, Smart Factory |
 | Version Control | Git, GitHub |
+
+
+<!--
+**AI-ROBOT-DATACORE/AI-ROBOT-DATACORE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+
 
 Here are some ideas to get you started:
 
