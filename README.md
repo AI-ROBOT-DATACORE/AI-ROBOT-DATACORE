@@ -17,7 +17,7 @@
 
       - (주)SPE | Solution 개발, Particle Measusing Systems, Jacobs Engineering(former Sverdrup)(1996~ 2015)
 
-      🇰🇷 **한국어** | 🇺🇸 **English**
+<img src="https://flagcdn.com/24x18/kr.png" width="24">
 
       
       
